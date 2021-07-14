@@ -1,2 +1,2 @@
-nyu_projects
+experimental
 ============
